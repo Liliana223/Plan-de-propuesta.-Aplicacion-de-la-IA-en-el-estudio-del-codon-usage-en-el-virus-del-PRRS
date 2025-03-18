@@ -1,2 +1,3 @@
 # Plan-de-propuesta.-Aplicacion-de-la-IA-en-el-estudio-del-codon-usage-en-el-virus-del-PRRS
-En este repositorio se encuentra el Trabajo de Fin de Master: Plan de propuesta. Aplicacion de la IA en el estudio del codon usage en el virus del PRRS. Universidad Internacional de la Rioja. 2025
+En este repositorio se encuentra el Trabajo de Fin de Master: Plan de propuesta. Aplicacion de la IA en el estudio del codon usage en el virus del PRRS, desarrollado en la Universidad Internacional de la Rioja en el año 2025.
+Para acceder visite el siguiente link: https://github.com/Liliana223/Plan-de-propuesta.-Aplicacion-de-la-IA-en-el-estudio-del-codon-usage-en-el-virus-del-PRRS/blob/main/Plan%20de%20propuesta.%20Aplicaci%C3%B3n%20de%20la%20IA%20en%20el%20estudio%20del%20codon%20usage%20en%20el%20virus%20del%20PRRS.pdf
